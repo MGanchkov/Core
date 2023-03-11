@@ -238,6 +238,8 @@
     <Compile Include="$(MSBuildThisFileDirectory)LiteDB\Utils\Pool\ArrayPool.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)LiteDB\Utils\Pool\BucketHelper.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)LiteDB\Utils\Tokenizer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Randoms\CRandom.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Randoms\CRandomThreadSafe.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Tools.cs" />
   </ItemGroup>
 </Project>
