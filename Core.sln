@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tis.Core", "Tis.Core\Tis.Core.csproj", "{36649D01-B104-4234-9542-6F6FE955AA69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tis.Core", "Tis.Core\Tis.Core.csproj", "{36649D01-B104-4234-9542-6F6FE955AA69}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tes.Core", "Tes.Core\Tes.Core.csproj", "{4CD4C6C5-6868-416F-8572-2576CC37D9F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tas.Core", "Tas.Core\Tas.Core.csproj", "{4270B1AD-E924-4746-B6FF-21CC6C2726F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tas.Core", "Tas.Core\Tas.Core.csproj", "{4270B1AD-E924-4746-B6FF-21CC6C2726F1}"
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Core", "Core\Core.shproj", "{84E95E6E-9606-4EFB-BC50-D143F30568B1}"
 EndProject
