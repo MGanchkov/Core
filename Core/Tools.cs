@@ -8,7 +8,7 @@ namespace Core
     {
         public static class Description
         {
-            public static string Tas { get; } = ".Net Standart 2.0";
+            public static string Tas { get; } = ".Net Standart 2.1";
             public static string Tes { get; } = ".Net Framework";
             public static string Tis { get; } = ".Net 6";
         }
