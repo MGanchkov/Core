@@ -238,6 +238,11 @@
     <Compile Include="$(MSBuildThisFileDirectory)LiteDB\Utils\Pool\ArrayPool.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)LiteDB\Utils\Pool\BucketHelper.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)LiteDB\Utils\Tokenizer.cs" />
+<<<<<<< HEAD
+=======
+    <Compile Include="$(MSBuildThisFileDirectory)Randoms\CRandom.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Randoms\CRandomThreadSafe.cs" />
+>>>>>>> 3347e9e (Добавлен потокобезопасный класс CRandomThreadSafe)
     <Compile Include="$(MSBuildThisFileDirectory)Tools.cs" />
   </ItemGroup>
 </Project>
