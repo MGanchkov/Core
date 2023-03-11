@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tis.Core", "Tis.Core\Tis.Core.csproj", "{36649D01-B104-4234-9542-6F6FE955AA69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tes.Core", "Tes.Core\Tes.Core.csproj", "{4CD4C6C5-6868-416F-8572-2576CC37D9F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tas.Core", "Tas.Core\Tas.Core.csproj", "{4270B1AD-E924-4746-B6FF-21CC6C2726F1}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Core", "Core\Core.shproj", "{84E95E6E-9606-4EFB-BC50-D143F30568B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36649D01-B104-4234-9542-6F6FE955AA69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36649D01-B104-4234-9542-6F6FE955AA69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36649D01-B104-4234-9542-6F6FE955AA69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36649D01-B104-4234-9542-6F6FE955AA69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CD4C6C5-6868-416F-8572-2576CC37D9F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD4C6C5-6868-416F-8572-2576CC37D9F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD4C6C5-6868-416F-8572-2576CC37D9F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD4C6C5-6868-416F-8572-2576CC37D9F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4270B1AD-E924-4746-B6FF-21CC6C2726F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4270B1AD-E924-4746-B6FF-21CC6C2726F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4270B1AD-E924-4746-B6FF-21CC6C2726F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4270B1AD-E924-4746-B6FF-21CC6C2726F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D2F3721-9639-4670-B85B-6C8243AB79D8}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Core\Core.projitems*{36649d01-b104-4234-9542-6f6fe955aa69}*SharedItemsImports = 5
+		Core\Core.projitems*{4270b1ad-e924-4746-b6ff-21cc6c2726f1}*SharedItemsImports = 5
+		Core\Core.projitems*{4cd4c6c5-6868-416f-8572-2576cc37d9f1}*SharedItemsImports = 4
+		Core\Core.projitems*{84e95e6e-9606-4efb-bc50-d143f30568b1}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal
